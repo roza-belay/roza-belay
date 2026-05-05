@@ -39,9 +39,8 @@ Fullstack Developer (Frontend-focused) | React | Node.js | Web Security
 - GitHub: github.com/roza-belay  
 
 ---
-
 ## 📊 GitHub Stats
 
-![Roza's GitHub stats](https://github-readme-stats.vercel.app/api?username=roza-belay&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=roza-belay&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roza-belay&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roza-belay&layout=compact&theme=tokyonight&hide_border=true)
