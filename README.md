@@ -1,8 +1,8 @@
-# Hi 👋, I'm Roza Belay
+# Hi , I'm Roza Belay
 
 Fullstack Developer (Frontend-focused) | React | Node.js | Web Security
 
-📍 Stockholm, Sweden  
+ Stockholm, Sweden  
 
 ---
 
@@ -19,10 +19,10 @@ Fullstack Developer (Frontend-focused) | React | Node.js | Web Security
 ---
 
 ## 🚀 About Me
-- 🌱 Studying Frontend Development with Web Security
-- 💻 Building fullstack applications (React + Node.js)
-- 🔐 Focused on secure and scalable systems
-- ⚡ Learning and improving every day
+-  Studying Frontend Development with Web Security
+-  Building fullstack applications (React + Node.js)
+-  Focused on secure and scalable systems
+- Learning and improving every day
 
 ---
 
