@@ -1,4 +1,4 @@
-# Hi , I'm Roza Belay
+# Hi , I'm Roza Belay 👋
 
 Fullstack Developer (Frontend-focused) | React | Node.js | Web Security
 
